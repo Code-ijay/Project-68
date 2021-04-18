@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+marquee{
+ background-color:yellow;
+    color:blue;
+    text-decoration:bold;
+}
+
+.line{
+    color: black;
+    display: inline;
+    padding: 30px;
+    font-size: 20px;
+}
